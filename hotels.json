@@ -1,257 +1,1657 @@
 {
-  "data": [
-    {
-      "chainCode": "NS",
-      "iataCode": "VLL",
-      "dupeId": 700026822,
-      "name": "NH CIUDAD DE VALLADOLID",
-      "hotelId": "NSVLLVAL",
-      "geoCode": {
-        "latitude": 41.65673,
-        "longitude": -4.73722
+    "data": [
+      {
+        "chainCode": "RD",
+        "city": "LISBOA",
+        "dupeId": 700025184,
+        "name": "RADISSON BLU LISBOA",
+        "hotelId": "RDLIS557",
+        "geoCode": {
+          "latitude": 38.75918,
+          "longitude": -9.15841
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 3.15,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:52:08"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "HO",
+        "city": "LISBOA",
+        "dupeId": 700141950,
+        "name": "LISBOA ALMADA HOTEL",
+        "hotelId": "HOLIS0T1",
+        "geoCode": {
+          "latitude": 38.76599,
+          "longitude": -9.16793
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 3.27,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:51:04"
       },
-      "distance": {
-        "value": 11,
-        "unit": "KM"
+      {
+        "chainCode": "WW",
+        "city": "LISBOA",
+        "dupeId": 700015442,
+        "name": "TIVOLI ORIENTE",
+        "hotelId": "WWLISTEJ",
+        "geoCode": {
+          "latitude": 38.7708,
+          "longitude": -9.09767
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 3.51,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:53:12"
       },
-      "lastUpdate": "2023-06-15T10:07:03"
-    },
-    {
-      "chainCode": "HA",
-      "iataCode": "VLL",
-      "dupeId": 700026667,
-      "name": "JARDIN DE LA ABADIA - ARROYO",
-      "hotelId": "HAVLLJAR",
-      "geoCode": {
-        "latitude": 41.61056,
-        "longitude": -4.79684
+      {
+        "chainCode": "UI",
+        "city": "LISBOA",
+        "dupeId": 700047035,
+        "name": "OLISSIPPO ORIENTE",
+        "hotelId": "UILISOOO",
+        "geoCode": {
+          "latitude": 38.76985,
+          "longitude": -9.09758
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 3.55,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:11:15"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "HA",
+        "city": "LISBOA",
+        "dupeId": 700025757,
+        "name": "HOTEL SANTA MARIA-FATIMA ",
+        "hotelId": "HALISSAN",
+        "geoCode": {
+          "latitude": 38.74564,
+          "longitude": -9.13998
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 3.99,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:08:36"
       },
-      "distance": {
-        "value": 11.57,
-        "unit": "KM"
+      {
+        "chainCode": "MC",
+        "city": "LISBOA",
+        "dupeId": 700022973,
+        "name": "LISBON MARRIOTT HOTEL",
+        "hotelId": "MCLISPTM",
+        "geoCode": {
+          "latitude": 38.74975,
+          "longitude": -9.16508
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 4.34,
+          "unit": "KM"
+        },
+        "lastUpdate": "2024-05-27T06:03:10"
       },
-      "lastUpdate": "2023-06-15T10:05:12"
-    },
-    {
-      "chainCode": "AR",
-      "iataCode": "VLL",
-      "dupeId": 700025900,
-      "name": "AC BY MARRIOTT PALACIO STA ANA",
-      "hotelId": "ARVLLANA",
-      "geoCode": {
-        "latitude": 41.65126,
-        "longitude": -4.7306
+      {
+        "chainCode": "HA",
+        "city": "LISBOA",
+        "dupeId": 700077825,
+        "name": "HOTEL AFRIN LISBOA",
+        "hotelId": "HALISTOR",
+        "geoCode": {
+          "latitude": 38.74224,
+          "longitude": -9.13455
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 4.35,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:53:10"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "HA",
+        "city": "LISBOA",
+        "dupeId": 700023143,
+        "name": "PENSAO LAR DO ARREIRO - LISBOA",
+        "hotelId": "HALISARE",
+        "geoCode": {
+          "latitude": 38.74199,
+          "longitude": -9.13347
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 4.38,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:52:54"
       },
-      "distance": {
-        "value": 11.79,
-        "unit": "KM"
+      {
+        "chainCode": "IQ",
+        "city": "LISBOA",
+        "dupeId": 700010155,
+        "name": "SANA METROPOLITAN HOTEL",
+        "hotelId": "IQLISMET",
+        "geoCode": {
+          "latitude": 38.74542,
+          "longitude": -9.15954
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 4.5,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:11:14"
       },
-      "lastUpdate": "2024-01-23T13:52:30"
-    },
-    {
-      "chainCode": "TY",
-      "iataCode": "VLL",
-      "dupeId": 700027883,
-      "name": "ZENIT IMPERIAL",
-      "hotelId": "TYVLLIMP",
-      "geoCode": {
-        "latitude": 41.65247,
-        "longitude": -4.72958
+      {
+        "chainCode": "WV",
+        "city": "FNC",
+        "dupeId": 700007192,
+        "name": "PORTO BAY SERRA GOLF",
+        "hotelId": "WVFNCPBS",
+        "geoCode": {
+          "latitude": 38.73897,
+          "longitude": -9.13908
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 4.72,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:20:41"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "HI",
+        "city": "LISBOA",
+        "dupeId": 700008208,
+        "name": "HOLIDAY INN",
+        "hotelId": "HILISECB",
+        "geoCode": {
+          "latitude": 38.738,
+          "longitude": -9.14118
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 4.85,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:53:10"
       },
-      "distance": {
-        "value": 11.79,
-        "unit": "KM"
+      {
+        "chainCode": "HS",
+        "city": "LISBOA",
+        "dupeId": 501830082,
+        "name": "DAH DOM AFONSO HENRIQUES",
+        "hotelId": "HSLISAKX",
+        "geoCode": {
+          "latitude": 38.73715,
+          "longitude": -9.12819
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 4.96,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T11:16:16"
       },
-      "lastUpdate": "2023-06-15T09:42:11"
-    },
-    {
-      "chainCode": "TY",
-      "iataCode": "VLL",
-      "dupeId": 700001655,
-      "name": "HOTEL OLID",
-      "hotelId": "TYVLL158",
-      "geoCode": {
-        "latitude": 41.65511,
-        "longitude": -4.72692
+      {
+        "chainCode": "HS",
+        "city": "LISBOA",
+        "dupeId": 700004105,
+        "name": "A.S. LISBOA",
+        "hotelId": "HSLISAIF",
+        "geoCode": {
+          "latitude": 38.7354,
+          "longitude": -9.13408
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 5.12,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:39:16"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "IQ",
+        "city": "LISBOA",
+        "dupeId": 700012268,
+        "name": "SANA EXECUTIVE HOTEL",
+        "hotelId": "IQLISEXE",
+        "geoCode": {
+          "latitude": 38.73677,
+          "longitude": -9.15055
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 5.12,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:57:37"
       },
-      "distance": {
-        "value": 11.84,
-        "unit": "KM"
+      {
+        "chainCode": "UI",
+        "city": "LISBOA",
+        "dupeId": 700009895,
+        "name": "OLISSIPPO MARQUES DE SA",
+        "hotelId": "UILIS014",
+        "geoCode": {
+          "latitude": 38.73648,
+          "longitude": -9.15165
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 5.18,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T11:08:57"
       },
-      "lastUpdate": "2023-06-15T10:17:00"
-    },
-    {
-      "chainCode": "UI",
-      "iataCode": "VLL",
-      "dupeId": 700025690,
-      "name": "SILKEN JUAN DE AUSTRIA HOTEL",
-      "hotelId": "UIVLLSJD",
-      "geoCode": {
-        "latitude": 41.63854,
-        "longitude": -4.73911
+      {
+        "chainCode": "IQ",
+        "city": "LISBOA",
+        "dupeId": 700006782,
+        "name": "SANA RENO HOTEL",
+        "hotelId": "IQLISDRH",
+        "geoCode": {
+          "latitude": 38.73502,
+          "longitude": -9.1483
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 5.27,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:51:36"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "UI",
+        "city": "LISBOA",
+        "dupeId": 700187475,
+        "name": "HOTEL OLISSIPPO SALDANHA",
+        "hotelId": "UILISOSH",
+        "geoCode": {
+          "latitude": 38.73407,
+          "longitude": -9.14338
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 5.3,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:07:19"
       },
-      "distance": {
-        "value": 12.02,
-        "unit": "KM"
+      {
+        "chainCode": "IQ",
+        "city": "LISBOA",
+        "dupeId": 700022975,
+        "name": "SANA MALHOA HOTEL",
+        "hotelId": "IQLISSNA",
+        "geoCode": {
+          "latitude": 38.73579,
+          "longitude": -9.15907
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 5.46,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:08:53"
       },
-      "lastUpdate": "2023-06-15T10:07:04"
-    },
-    {
-      "chainCode": "HA",
-      "iataCode": "VLL",
-      "dupeId": 700094678,
-      "name": "AMADEUS - VALLADOLID",
-      "hotelId": "HAVLLAMA",
-      "geoCode": {
-        "latitude": 41.64961,
-        "longitude": -4.72663
+      {
+        "chainCode": "RT",
+        "city": "LISBOA",
+        "dupeId": 700008572,
+        "name": "IBIS LISBOA JOSE MALHOA",
+        "hotelId": "RTLISIBI",
+        "geoCode": {
+          "latitude": 38.73705,
+          "longitude": -9.16316
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 5.47,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:52:08"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "RT",
+        "city": "LISBOA",
+        "dupeId": 700010550,
+        "name": "NOVOTEL LISBOA",
+        "hotelId": "RTLISNOV",
+        "geoCode": {
+          "latitude": 38.73698,
+          "longitude": -9.16327
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 5.48,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:52:08"
       },
-      "distance": {
-        "value": 12.16,
-        "unit": "KM"
+      {
+        "chainCode": "SI",
+        "city": "LISBOA",
+        "dupeId": 700012615,
+        "name": "SHERATON LISBOA HOTEL AND SPA",
+        "hotelId": "SILIS292",
+        "geoCode": {
+          "latitude": 38.73345,
+          "longitude": -9.15123
+        },
+        "address": {
+          "countryCode": "PT"
+        },
+        "distance": {
+          "value": 5.5,
+          "unit": "KM"
+        },
+        "lastUpdate": "2024-05-27T06:09:14"
       },
-      "lastUpdate": "2023-06-15T10:04:57"
-    },
-    {
-      "chainCode": "KY",
-      "iataCode": "VLL",
-      "dupeId": 700032988,
-      "name": "ATRIO",
-      "hotelId": "KYVLLATR",
-      "geoCode": {
-        "latitude": 41.65195,
-        "longitude": -4.72366
+      {
+        "chainCode": "HS",
+        "city": "LOURDES",
+        "dupeId": 501525414,
+        "name": "AMYS INTER-HOTEL",
+        "hotelId": "HSLDEACQ",
+        "geoCode": {
+          "latitude": 43.20823,
+          "longitude": 0.04461
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 5.29,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T11:10:33"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "NN",
+        "city": "LOURDES",
+        "dupeId": 700091975,
+        "name": "KYRIAD TARBES - ODOS",
+        "hotelId": "NNLDEK01",
+        "geoCode": {
+          "latitude": 43.20853,
+          "longitude": 0.04506
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 5.33,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:17:15"
       },
-      "distance": {
-        "value": 12.24,
-        "unit": "KM"
+      {
+        "chainCode": "NN",
+        "city": "LOURDES",
+        "dupeId": 700135804,
+        "name": "PREMIERE CLASSE LOURDES",
+        "hotelId": "NNLDEP01",
+        "geoCode": {
+          "latitude": 43.20853,
+          "longitude": 0.04506
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 5.33,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T11:05:44"
       },
-      "lastUpdate": "2023-06-15T10:04:57"
-    },
-    {
-      "chainCode": "HA",
-      "iataCode": "VLL",
-      "dupeId": 700001654,
-      "name": "PARQUE - VALLADOLID",
-      "hotelId": "HAVLLPAR",
-      "geoCode": {
-        "latitude": 41.63724,
-        "longitude": -4.73658
+      {
+        "chainCode": "NN",
+        "city": "NICE",
+        "dupeId": 700091936,
+        "name": "CAMPANILE NICE - A?ROPORT",
+        "hotelId": "NNNCE357",
+        "geoCode": {
+          "latitude": 43.66686,
+          "longitude": 7.21397
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 0.96,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:58:24"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "RT",
+        "city": "NICE",
+        "dupeId": 700091939,
+        "name": "IBIS STYLES NICE AEROPORT",
+        "hotelId": "RTNCENAS",
+        "geoCode": {
+          "latitude": 43.66971,
+          "longitude": 7.2166
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 1.26,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:43:13"
       },
-      "distance": {
-        "value": 12.27,
-        "unit": "KM"
+      {
+        "chainCode": "RT",
+        "city": "NICE",
+        "dupeId": 700034873,
+        "name": "MERCURE NICE CAP 3000 AEROP",
+        "hotelId": "RTNCECAP",
+        "geoCode": {
+          "latitude": 43.66118,
+          "longitude": 7.19605
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 1.62,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:54:45"
       },
-      "lastUpdate": "2023-06-15T10:04:10"
-    },
-    {
-      "chainCode": "HA",
-      "iataCode": "VLL",
-      "dupeId": 700026742,
-      "name": "CATEDRAL - VALLADOLID",
-      "hotelId": "HAVLLCAT",
-      "geoCode": {
-        "latitude": 41.65187,
-        "longitude": -4.7232
+      {
+        "chainCode": "XK",
+        "city": "NICE",
+        "dupeId": 501132818,
+        "name": "HOLIDAY INN RST PRT ST LAURENT",
+        "hotelId": "XKNCE397",
+        "geoCode": {
+          "latitude": 43.65811,
+          "longitude": 7.18995
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 2.08,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:28:32"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "UZ",
+        "city": "NICE",
+        "dupeId": 700049527,
+        "name": "HOTEL ANIS",
+        "hotelId": "UZNCE438",
+        "geoCode": {
+          "latitude": 43.67827,
+          "longitude": 7.22737
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 2.4,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:57:07"
       },
-      "distance": {
-        "value": 12.28,
-        "unit": "KM"
+      {
+        "chainCode": "RD",
+        "city": "NICE",
+        "dupeId": 700024294,
+        "name": "RADISSON BLU NICE",
+        "hotelId": "RDNCE580",
+        "geoCode": {
+          "latitude": 43.68366,
+          "longitude": 7.23446
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 3.19,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:56:51"
       },
-      "lastUpdate": "2023-06-15T10:04:57"
-    },
-    {
-      "chainCode": "UI",
-      "iataCode": "VLL",
-      "dupeId": 700148740,
-      "name": "ENARA BOUTIQUE HOTEL",
-      "hotelId": "UIVLLENA",
-      "geoCode": {
-        "latitude": 41.64924,
-        "longitude": -4.72504
+      {
+        "chainCode": "RT",
+        "city": "NICE",
+        "dupeId": 700083426,
+        "name": "ADAGIO ACCESS NICE MAGNAN",
+        "hotelId": "RTNCEADA",
+        "geoCode": {
+          "latitude": 43.69117,
+          "longitude": 7.24383
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 4.29,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:22:46"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "YX",
+        "city": "NICE",
+        "dupeId": 700091935,
+        "name": "HOTEL ROYAL NICE",
+        "hotelId": "YXNCEHRN",
+        "geoCode": {
+          "latitude": 43.69154,
+          "longitude": 7.24601
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 4.42,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:07:35"
       },
-      "distance": {
-        "value": 12.3,
-        "unit": "KM"
+      {
+        "chainCode": "XK",
+        "city": "NICE",
+        "dupeId": 501103406,
+        "name": "THE BLUE HOTEL",
+        "hotelId": "XKNCE100",
+        "geoCode": {
+          "latitude": 43.69184,
+          "longitude": 7.24625
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 4.46,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:15:58"
       },
-      "lastUpdate": "2023-06-15T11:11:39"
-    },
-    {
-      "chainCode": "SE",
-      "iataCode": "VLL",
-      "dupeId": 700025672,
-      "name": "HOTEL SERCOTEL FELIPE IV",
-      "hotelId": "SEVLL038",
-      "geoCode": {
-        "latitude": 41.64626,
-        "longitude": -4.72631
+      {
+        "chainCode": "XK",
+        "city": "NICE",
+        "dupeId": 502059669,
+        "name": "INTERNAL PRICING TESTING",
+        "hotelId": "XKNCEYT4",
+        "geoCode": {
+          "latitude": 43.69335,
+          "longitude": 7.2506
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 4.79,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T11:22:54"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "AR",
+        "city": "NICE",
+        "dupeId": 700007092,
+        "name": "AC BY MARRIOTT HOTEL NICE",
+        "hotelId": "ARNCEACH",
+        "geoCode": {
+          "latitude": 43.69297,
+          "longitude": 7.25242
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 4.85,
+          "unit": "KM"
+        },
+        "lastUpdate": "2024-05-27T06:05:28"
       },
-      "distance": {
-        "value": 12.38,
-        "unit": "KM"
+      {
+        "chainCode": "SC",
+        "city": "NICE",
+        "dupeId": 700047714,
+        "name": "HOTEL LOCARNO",
+        "hotelId": "SCNCE020",
+        "geoCode": {
+          "latitude": 43.69461,
+          "longitude": 7.25192
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 4.97,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:14:23"
       },
-      "lastUpdate": "2023-07-14T09:00:07"
-    },
-    {
-      "chainCode": "HA",
-      "iataCode": "VLL",
-      "dupeId": 700166129,
-      "name": "HOSTA LIMA - VALLADOLID",
-      "hotelId": "HAVLLLIM",
-      "geoCode": {
-        "latitude": 41.64788,
-        "longitude": -4.71927
+      {
+        "chainCode": "OI",
+        "city": "NICE",
+        "dupeId": 700151047,
+        "name": "HOTEL LA VILLA NICE PROMENADE",
+        "hotelId": "OINCEJ5P",
+        "geoCode": {
+          "latitude": 43.69488,
+          "longitude": 7.25528
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 5.15,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:20:08"
       },
-      "address": {
-        "countryCode": "ES"
+      {
+        "chainCode": "HS",
+        "city": "NICE",
+        "dupeId": 700006483,
+        "name": "DANTE",
+        "hotelId": "HSNCEABE",
+        "geoCode": {
+          "latitude": 43.69594,
+          "longitude": 7.25401
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 5.19,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:33:46"
       },
-      "distance": {
-        "value": 12.79,
-        "unit": "KM"
+      {
+        "chainCode": "LW",
+        "city": "NICE",
+        "dupeId": 700010410,
+        "name": "LE NEGRESCO",
+        "hotelId": "LWNCE003",
+        "geoCode": {
+          "latitude": 43.6941,
+          "longitude": 7.25761
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 5.21,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:58:24"
       },
-      "lastUpdate": "2023-06-15T10:29:18"
-    }
-  ],
-  "meta": {
-    "count": 13,
-    "links": {
-      "self": "https://test.api.amadeus.com/v1/reference-data/locations/hotels/by-city?cityCode= VLL&hotelSource=ALL&radius=20&radiusUnit=KM"
-    }
+      {
+        "chainCode": "OI",
+        "city": "NICE",
+        "dupeId": 700024757,
+        "name": "HI HOTEL ECO SPA AND BEACH",
+        "hotelId": "OINCEHHI",
+        "geoCode": {
+          "latitude": 43.69782,
+          "longitude": 7.25352
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 5.33,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:31:25"
+      },
+      {
+        "chainCode": "IW",
+        "city": "NICE",
+        "dupeId": 700014267,
+        "name": "HOTEL WESTMINSTER NICE",
+        "hotelId": "IWNCEWST",
+        "geoCode": {
+          "latitude": 43.69469,
+          "longitude": 7.26113
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 5.44,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:14:38"
+      },
+      {
+        "chainCode": "XK",
+        "city": "NICE",
+        "dupeId": 501145971,
+        "name": "MB HOTEL 1",
+        "hotelId": "XKNCE01J",
+        "geoCode": {
+          "latitude": 43.69476,
+          "longitude": 7.26143
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 5.46,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:20:41"
+      },
+      {
+        "chainCode": "RT",
+        "city": "MARSEILLE",
+        "dupeId": 700091741,
+        "name": "IBIS MARSEILLE AEROPORT",
+        "hotelId": "RTMRSPRO",
+        "geoCode": {
+          "latitude": 43.4459,
+          "longitude": 5.22611
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 1.53,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:54:30"
+      },
+      {
+        "chainCode": "PU",
+        "city": "MARSEILLE",
+        "dupeId": 700071559,
+        "name": "PULLMAN MARSEILLE PROVENCE",
+        "hotelId": "PUMRSSOF",
+        "geoCode": {
+          "latitude": 43.4461,
+          "longitude": 5.22652
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 1.57,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:17:47"
+      },
+      {
+        "chainCode": "CI",
+        "city": "MARSEILLE",
+        "dupeId": 700132622,
+        "name": "COMFORT HOTEL MARSEILLE AIRPORT",
+        "hotelId": "CIMRS438",
+        "geoCode": {
+          "latitude": 43.44407,
+          "longitude": 5.23226
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 1.78,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:43:27"
+      },
+      {
+        "chainCode": "HI",
+        "city": "MARSEILLE",
+        "dupeId": 700092688,
+        "name": "HOLIDAY INN EXP MARSEILLE PROV",
+        "hotelId": "HIMRS229",
+        "geoCode": {
+          "latitude": 43.44403,
+          "longitude": 5.23316
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 1.83,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:12:48"
+      },
+      {
+        "chainCode": "BW",
+        "city": "MARSEILLE",
+        "dupeId": 700057415,
+        "name": "BEST WESTERN MARSEILLE AEROPOR",
+        "hotelId": "BWMRS497",
+        "geoCode": {
+          "latitude": 43.44554,
+          "longitude": 5.23242
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 1.88,
+          "unit": "KM"
+        },
+        "lastUpdate": "2024-05-01T21:21:33"
+      },
+      {
+        "chainCode": "NN",
+        "city": "MARSEILLE",
+        "dupeId": 700188837,
+        "name": "KYRIAD MARSEILLE PROVENCE - A?ROPORT",
+        "hotelId": "NNMRSK07",
+        "geoCode": {
+          "latitude": 43.44551,
+          "longitude": 5.2336
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 1.95,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:20:40"
+      },
+      {
+        "chainCode": "CC",
+        "city": "ATL",
+        "dupeId": 501967282,
+        "name": "TEST_PROPERTY12",
+        "hotelId": "CCATL738",
+        "geoCode": {
+          "latitude": 43.42484,
+          "longitude": 5.25079
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 3.23,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:22:13"
+      },
+      {
+        "chainCode": "BL",
+        "city": "MARSEILLE",
+        "dupeId": 700132621,
+        "name": "NH GRAND HOTEL KRASNAPOLSKY",
+        "hotelId": "BLMRSP03",
+        "geoCode": {
+          "latitude": 43.42484,
+          "longitude": 5.25079
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 3.23,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-12-22T06:30:32"
+      },
+      {
+        "chainCode": "NN",
+        "city": "MARSEILLE",
+        "dupeId": 700135812,
+        "name": "PREMIERE CLASSE MARSEILLE - VITROLLES AN",
+        "hotelId": "NNMRSP01",
+        "geoCode": {
+          "latitude": 43.42552,
+          "longitude": 5.25276
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 3.35,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:52:55"
+      },
+      {
+        "chainCode": "NN",
+        "city": "MARSEILLE",
+        "dupeId": 700135811,
+        "name": "PREMIERE CLASSE MARSEILLE - LA VALENTINE",
+        "hotelId": "NNMRSP04",
+        "geoCode": {
+          "latitude": 43.42552,
+          "longitude": 5.25276
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 3.35,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T11:06:49"
+      },
+      {
+        "chainCode": "NN",
+        "city": "MARSEILLE",
+        "dupeId": 700092687,
+        "name": "CAMPANILE MARSEILLE - VITROLLES GRIFFON",
+        "hotelId": "NNMRSC05",
+        "geoCode": {
+          "latitude": 43.43306,
+          "longitude": 5.27794
+        },
+        "address": {
+          "countryCode": "FR"
+        },
+        "distance": {
+          "value": 5.2,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:56:35"
+      },
+      {
+        "chainCode": "SE",
+        "city": "SARAGOÇA",
+        "dupeId": 700133642,
+        "name": "HOTEL SERCOTEL LAS VENTAS",
+        "hotelId": "SEZAZ505",
+        "geoCode": {
+          "latitude": 41.69621,
+          "longitude": -0.98961
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 5.47,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-07-14T09:00:06"
+      },
+      {
+        "chainCode": "HA",
+        "city": "SARAGOÇA",
+        "dupeId": 700094701,
+        "name": "EUROSTARS REY FERNANDO II DE ARAGON",
+        "hotelId": "HAZAZREY",
+        "geoCode": {
+          "latitude": 41.64979,
+          "longitude": -0.9787
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 5.54,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:00:29"
+      },
+      {
+        "chainCode": "KY",
+        "city": "SARAGOÇA",
+        "dupeId": 700024091,
+        "name": "GOYA",
+        "hotelId": "KYZAZGOY",
+        "geoCode": {
+          "latitude": 41.72186,
+          "longitude": -1.02906
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 6.29,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:05:45"
+      },
+      {
+        "chainCode": "AR",
+        "city": "SARAGOÇA",
+        "dupeId": 700025429,
+        "name": "AC BY MARRIOTT HOTEL ZARAGOZA",
+        "hotelId": "ARZAZENL",
+        "geoCode": {
+          "latitude": 41.64962,
+          "longitude": -0.92069
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 10.22,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:05:43"
+      },
+      {
+        "chainCode": "KY",
+        "city": "SARAGOÇA",
+        "dupeId": 700033984,
+        "name": "EXE EUROSTARS PLAZA DELICIAS",
+        "hotelId": "KYZAZPLA",
+        "geoCode": {
+          "latitude": 41.65605,
+          "longitude": -0.91571
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 10.53,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:05:45"
+      },
+      {
+        "chainCode": "HA",
+        "city": "MADRID",
+        "dupeId": 700033759,
+        "name": "HOTEL CLEMENT BARAJAS",
+        "hotelId": "HAMADCLE",
+        "geoCode": {
+          "latitude": 40.47106,
+          "longitude": -3.58004
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 2.49,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:29:34"
+      },
+      {
+        "chainCode": "HA",
+        "city": "MADRID",
+        "dupeId": 700094559,
+        "name": "HOTEL TACH MADRID AIRPORT",
+        "hotelId": "HAMADTAC",
+        "geoCode": {
+          "latitude": 40.4729,
+          "longitude": -3.58509
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 2.5,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:29:34"
+      },
+      {
+        "chainCode": "RT",
+        "city": "MADRID",
+        "dupeId": 700094555,
+        "name": "IBIS MADRID AEROPUERTO",
+        "hotelId": "RTMADIIS",
+        "geoCode": {
+          "latitude": 40.47023,
+          "longitude": -3.58066
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 2.59,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:54:30"
+      },
+      {
+        "chainCode": "SM",
+        "city": "MADRID",
+        "dupeId": 700024351,
+        "name": "MELIA BARAJAS",
+        "hotelId": "SMMADBAR",
+        "geoCode": {
+          "latitude": 40.46956,
+          "longitude": -3.58134
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 2.68,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:54:14"
+      },
+      {
+        "chainCode": "WT",
+        "city": "MADRID",
+        "dupeId": 700024303,
+        "name": "TRYP MADRID ALAMEDA AEROPUERTO",
+        "hotelId": "WTMADALA",
+        "geoCode": {
+          "latitude": 40.46888,
+          "longitude": -3.58147
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 2.76,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:21:59"
+      },
+      {
+        "chainCode": "UI",
+        "city": "MADRID",
+        "dupeId": 700025975,
+        "name": "PETIT PALACE MADRID AEROPUERTO",
+        "hotelId": "UIMADMAD",
+        "geoCode": {
+          "latitude": 40.45859,
+          "longitude": -3.58221
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 3.86,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:52:40"
+      },
+      {
+        "chainCode": "HI",
+        "city": "MADRID",
+        "dupeId": 700051474,
+        "name": "HOLIDAY INN EX MADRID AIRPORT",
+        "hotelId": "HIMAD16F",
+        "geoCode": {
+          "latitude": 40.44944,
+          "longitude": -3.56643
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 4.73,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:52:23"
+      },
+      {
+        "chainCode": "WV",
+        "city": "MADRID",
+        "dupeId": 700120786,
+        "name": "HOTEL NUEVO BOSTON",
+        "hotelId": "WVMADNBO",
+        "geoCode": {
+          "latitude": 40.44941,
+          "longitude": -3.57748
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 4.78,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:20:09"
+      },
+      {
+        "chainCode": "NS",
+        "city": "MADRID",
+        "dupeId": 700027199,
+        "name": "NH BARAJAS",
+        "hotelId": "NSMADBAR",
+        "geoCode": {
+          "latitude": 40.45233,
+          "longitude": -3.59466
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 4.89,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:59:27"
+      },
+      {
+        "chainCode": "UI",
+        "city": "MADRID",
+        "dupeId": 700070716,
+        "name": "MAYDRIT HOTEL",
+        "hotelId": "UIMAD854",
+        "geoCode": {
+          "latitude": 40.4514,
+          "longitude": -3.59311
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 4.93,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:11:46"
+      },
+      {
+        "chainCode": "DH",
+        "city": "MADRID",
+        "dupeId": 700056704,
+        "name": "CONVENCION BARAJAS",
+        "hotelId": "DHMADATV",
+        "geoCode": {
+          "latitude": 40.45167,
+          "longitude": -3.59549
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 4.99,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:25:07"
+      },
+      {
+        "chainCode": "HA",
+        "city": "MADRID",
+        "dupeId": 700116902,
+        "name": "COMPOSTELA SUITES",
+        "hotelId": "HAMADCOM",
+        "geoCode": {
+          "latitude": 40.44767,
+          "longitude": -3.5803
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 5.01,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:43:28"
+      },
+      {
+        "chainCode": "RT",
+        "city": "MADRID",
+        "dupeId": 700026135,
+        "name": "NOVOTEL MADRID CAMPO NACIONES",
+        "hotelId": "RTMADCMP",
+        "geoCode": {
+          "latitude": 40.46248,
+          "longitude": -3.61447
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 5.02,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:54:14"
+      },
+      {
+        "chainCode": "UI",
+        "city": "MADRID",
+        "dupeId": 700117724,
+        "name": "AXOR FERIA HOTEL",
+        "hotelId": "UIMAD080",
+        "geoCode": {
+          "latitude": 40.44767,
+          "longitude": -3.58238
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 5.04,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:14:55"
+      },
+      {
+        "chainCode": "CP",
+        "city": "MADRID",
+        "dupeId": 700147089,
+        "name": "CROWNE PLAZA MADRID AIRPORT",
+        "hotelId": "CPMAD668",
+        "geoCode": {
+          "latitude": 40.44736,
+          "longitude": -3.54262
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 5.45,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:19:52"
+      },
+      {
+        "chainCode": "HL",
+        "city": "MADRID",
+        "dupeId": 700059251,
+        "name": "HILTON MADRID AIRPORT",
+        "hotelId": "HLMAD100",
+        "geoCode": {
+          "latitude": 40.45003,
+          "longitude": -3.60329
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 5.47,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:52:23"
+      },
+      {
+        "chainCode": "NS",
+        "city": "VALLADOLID",
+        "dupeId": 700026822,
+        "name": "NH CIUDAD DE VALLADOLID",
+        "hotelId": "NSVLLVAL",
+        "geoCode": {
+          "latitude": 41.65673,
+          "longitude": -4.73722
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 11,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:07:03"
+      },
+      {
+        "chainCode": "HA",
+        "city": "VALLADOLID",
+        "dupeId": 700026667,
+        "name": "JARDIN DE LA ABADIA - ARROYO",
+        "hotelId": "HAVLLJAR",
+        "geoCode": {
+          "latitude": 41.61056,
+          "longitude": -4.79684
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 11.57,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:05:12"
+      },
+      {
+        "chainCode": "AR",
+        "city": "VALLADOLID",
+        "dupeId": 700025900,
+        "name": "AC BY MARRIOTT PALACIO STA ANA",
+        "hotelId": "ARVLLANA",
+        "geoCode": {
+          "latitude": 41.65126,
+          "longitude": -4.7306
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 11.79,
+          "unit": "KM"
+        },
+        "lastUpdate": "2024-01-23T13:52:30"
+      },
+      {
+        "chainCode": "TY",
+        "city": "VALLADOLID",
+        "dupeId": 700027883,
+        "name": "ZENIT IMPERIAL",
+        "hotelId": "TYVLLIMP",
+        "geoCode": {
+          "latitude": 41.65247,
+          "longitude": -4.72958
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 11.79,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T09:42:11"
+      },
+      {
+        "chainCode": "TY",
+        "city": "VALLADOLID",
+        "dupeId": 700001655,
+        "name": "HOTEL OLID",
+        "hotelId": "TYVLL158",
+        "geoCode": {
+          "latitude": 41.65511,
+          "longitude": -4.72692
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 11.84,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:17:00"
+      },
+      {
+        "chainCode": "UI",
+        "city": "VALLADOLID",
+        "dupeId": 700025690,
+        "name": "SILKEN JUAN DE AUSTRIA HOTEL",
+        "hotelId": "UIVLLSJD",
+        "geoCode": {
+          "latitude": 41.63854,
+          "longitude": -4.73911
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 12.02,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:07:04"
+      },
+      {
+        "chainCode": "HA",
+        "city": "VALLADOLID",
+        "dupeId": 700094678,
+        "name": "AMADEUS - VALLADOLID",
+        "hotelId": "HAVLLAMA",
+        "geoCode": {
+          "latitude": 41.64961,
+          "longitude": -4.72663
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 12.16,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:04:57"
+      },
+      {
+        "chainCode": "KY",
+        "city": "VALLADOLID",
+        "dupeId": 700032988,
+        "name": "ATRIO",
+        "hotelId": "KYVLLATR",
+        "geoCode": {
+          "latitude": 41.65195,
+          "longitude": -4.72366
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 12.24,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:04:57"
+      },
+      {
+        "chainCode": "HA",
+        "city": "VALLADOLID",
+        "dupeId": 700001654,
+        "name": "PARQUE - VALLADOLID",
+        "hotelId": "HAVLLPAR",
+        "geoCode": {
+          "latitude": 41.63724,
+          "longitude": -4.73658
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 12.27,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:04:10"
+      },
+      {
+        "chainCode": "HA",
+        "city": "VALLADOLID",
+        "dupeId": 700026742,
+        "name": "CATEDRAL - VALLADOLID",
+        "hotelId": "HAVLLCAT",
+        "geoCode": {
+          "latitude": 41.65187,
+          "longitude": -4.7232
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 12.28,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:04:57"
+      },
+      {
+        "chainCode": "UI",
+        "city": "VALLADOLID",
+        "dupeId": 700148740,
+        "name": "ENARA BOUTIQUE HOTEL",
+        "hotelId": "UIVLLENA",
+        "geoCode": {
+          "latitude": 41.64924,
+          "longitude": -4.72504
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 12.3,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T11:11:39"
+      },
+      {
+        "chainCode": "SE",
+        "city": "VALLADOLID",
+        "dupeId": 700025672,
+        "name": "HOTEL SERCOTEL FELIPE IV",
+        "hotelId": "SEVLL038",
+        "geoCode": {
+          "latitude": 41.64626,
+          "longitude": -4.72631
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 12.38,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-07-14T09:00:07"
+      },
+      {
+        "chainCode": "HA",
+        "city": "VALLADOLID",
+        "dupeId": 700166129,
+        "name": "HOSTA LIMA - VALLADOLID",
+        "hotelId": "HAVLLLIM",
+        "geoCode": {
+          "latitude": 41.64788,
+          "longitude": -4.71927
+        },
+        "address": {
+          "countryCode": "ES"
+        },
+        "distance": {
+          "value": 12.79,
+          "unit": "KM"
+        },
+        "lastUpdate": "2023-06-15T10:29:18"
+      }
+    ]
   }
-}
