@@ -1,0 +1,257 @@
+{
+  "data": [
+    {
+      "chainCode": "NS",
+      "iataCode": "VLL",
+      "dupeId": 700026822,
+      "name": "NH CIUDAD DE VALLADOLID",
+      "hotelId": "NSVLLVAL",
+      "geoCode": {
+        "latitude": 41.65673,
+        "longitude": -4.73722
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 11,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:07:03"
+    },
+    {
+      "chainCode": "HA",
+      "iataCode": "VLL",
+      "dupeId": 700026667,
+      "name": "JARDIN DE LA ABADIA - ARROYO",
+      "hotelId": "HAVLLJAR",
+      "geoCode": {
+        "latitude": 41.61056,
+        "longitude": -4.79684
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 11.57,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:12"
+    },
+    {
+      "chainCode": "AR",
+      "iataCode": "VLL",
+      "dupeId": 700025900,
+      "name": "AC BY MARRIOTT PALACIO STA ANA",
+      "hotelId": "ARVLLANA",
+      "geoCode": {
+        "latitude": 41.65126,
+        "longitude": -4.7306
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 11.79,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-01-23T13:52:30"
+    },
+    {
+      "chainCode": "TY",
+      "iataCode": "VLL",
+      "dupeId": 700027883,
+      "name": "ZENIT IMPERIAL",
+      "hotelId": "TYVLLIMP",
+      "geoCode": {
+        "latitude": 41.65247,
+        "longitude": -4.72958
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 11.79,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:42:11"
+    },
+    {
+      "chainCode": "TY",
+      "iataCode": "VLL",
+      "dupeId": 700001655,
+      "name": "HOTEL OLID",
+      "hotelId": "TYVLL158",
+      "geoCode": {
+        "latitude": 41.65511,
+        "longitude": -4.72692
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 11.84,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:17:00"
+    },
+    {
+      "chainCode": "UI",
+      "iataCode": "VLL",
+      "dupeId": 700025690,
+      "name": "SILKEN JUAN DE AUSTRIA HOTEL",
+      "hotelId": "UIVLLSJD",
+      "geoCode": {
+        "latitude": 41.63854,
+        "longitude": -4.73911
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 12.02,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:07:04"
+    },
+    {
+      "chainCode": "HA",
+      "iataCode": "VLL",
+      "dupeId": 700094678,
+      "name": "AMADEUS - VALLADOLID",
+      "hotelId": "HAVLLAMA",
+      "geoCode": {
+        "latitude": 41.64961,
+        "longitude": -4.72663
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 12.16,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:04:57"
+    },
+    {
+      "chainCode": "KY",
+      "iataCode": "VLL",
+      "dupeId": 700032988,
+      "name": "ATRIO",
+      "hotelId": "KYVLLATR",
+      "geoCode": {
+        "latitude": 41.65195,
+        "longitude": -4.72366
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 12.24,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:04:57"
+    },
+    {
+      "chainCode": "HA",
+      "iataCode": "VLL",
+      "dupeId": 700001654,
+      "name": "PARQUE - VALLADOLID",
+      "hotelId": "HAVLLPAR",
+      "geoCode": {
+        "latitude": 41.63724,
+        "longitude": -4.73658
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 12.27,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:04:10"
+    },
+    {
+      "chainCode": "HA",
+      "iataCode": "VLL",
+      "dupeId": 700026742,
+      "name": "CATEDRAL - VALLADOLID",
+      "hotelId": "HAVLLCAT",
+      "geoCode": {
+        "latitude": 41.65187,
+        "longitude": -4.7232
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 12.28,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:04:57"
+    },
+    {
+      "chainCode": "UI",
+      "iataCode": "VLL",
+      "dupeId": 700148740,
+      "name": "ENARA BOUTIQUE HOTEL",
+      "hotelId": "UIVLLENA",
+      "geoCode": {
+        "latitude": 41.64924,
+        "longitude": -4.72504
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 12.3,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T11:11:39"
+    },
+    {
+      "chainCode": "SE",
+      "iataCode": "VLL",
+      "dupeId": 700025672,
+      "name": "HOTEL SERCOTEL FELIPE IV",
+      "hotelId": "SEVLL038",
+      "geoCode": {
+        "latitude": 41.64626,
+        "longitude": -4.72631
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 12.38,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-07-14T09:00:07"
+    },
+    {
+      "chainCode": "HA",
+      "iataCode": "VLL",
+      "dupeId": 700166129,
+      "name": "HOSTA LIMA - VALLADOLID",
+      "hotelId": "HAVLLLIM",
+      "geoCode": {
+        "latitude": 41.64788,
+        "longitude": -4.71927
+      },
+      "address": {
+        "countryCode": "ES"
+      },
+      "distance": {
+        "value": 12.79,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:29:18"
+    }
+  ],
+  "meta": {
+    "count": 13,
+    "links": {
+      "self": "https://test.api.amadeus.com/v1/reference-data/locations/hotels/by-city?cityCode= VLL&hotelSource=ALL&radius=20&radiusUnit=KM"
+    }
+  }
+}
